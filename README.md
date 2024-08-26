@@ -3,7 +3,7 @@
 
 **DanielPerez1822/DanielPerez1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#Daniel Pérez
+#Daniel Pérez Lozada
 
 Este repositorio se van a guardar actividades de estructura de datos
 
