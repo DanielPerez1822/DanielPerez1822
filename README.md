@@ -1,3 +1,8 @@
+<!-- CONFIG
+FULL_NAME: Daniel Perez Lozada
+GITHUB_USER: DanielPerez1822
+-->
+
 ### Hi there 👋
 
 
